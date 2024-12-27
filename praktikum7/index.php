@@ -29,4 +29,8 @@ switch ($request) {
         $app->jalankan();
         break;
     
+<<<<<<< HEAD
+=======
+       
+>>>>>>> 3bdc20b930dfccccd74736da88fc61fe4cabdf7c
 }
