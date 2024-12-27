@@ -1,1 +1,1 @@
-UAS PW 2
+UAS PMW 2
